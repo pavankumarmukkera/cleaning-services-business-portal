@@ -1,4 +1,4 @@
-﻿# cleaning-services-business-portal
+# cleaning-services-business-portal
 
 
 ---
@@ -13,3 +13,6 @@ concepts, not completed or deployed integrations.
 
 See [Power Platform Documentation](power-platform/README.md).
 
+## Proposed Power Platform extension
+
+A project-specific **concept (not a deployed implementation)**: Customer cleaning enquiries and quotation tracking. [Read the design](power-platform/PROJECT-SPECIFIC-EXTENSION.md).
